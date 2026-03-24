@@ -3,7 +3,7 @@
 An interactive telemetry visualization tool built for Level Designers and Product Managers to identify map imbalances, analyze bot behavior, and optimize player retention.
 
 ## 🚀 Live Application
-**Hosted URL:** [PASTE YOUR STREAMLIT URL HERE ONCE DEPLOYED]
+**Hosted URL:** [https://lila-black-analytics-fisfrkevrj9whawnoqrreu.streamlit.app/]
 
 ## 🛠 Features
 * **Global Death Heatmaps:** Aggregate death events across 100+ matches to find systemic map flaws.
